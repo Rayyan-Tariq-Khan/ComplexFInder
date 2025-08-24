@@ -32,4 +32,3 @@ def generate_stringdb_url(query_protein, organism, peak_groupings_file="WholeShe
         return f"Error: Missing expected column in data: {e}"
     except Exception as e:
         return f"Error: {str(e)}"
-
