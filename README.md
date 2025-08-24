@@ -1,2 +1,2 @@
 # ComplexFinder
-Find protein complexes from an abundances style data sheet.
+Find protein complexes from an Protein Groups sheet.
