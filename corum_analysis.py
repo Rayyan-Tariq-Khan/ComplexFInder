@@ -62,4 +62,3 @@ def run_corum_analysis(query_protein, corum_file="corum_humanComplexes.txt", pea
             'Peak Count': 'N/A',
             'CORUM Complex Match': f'Error: {str(e)}'
         }])
-
